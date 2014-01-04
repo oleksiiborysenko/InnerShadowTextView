@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InnerShadowTextView">
+        <attr name="innerShadowColor" format="color"/>
+        <attr name="innerShadowRadius" format="float"/>
+        <attr name="innerShadowDY" format="integer"/>
+        <attr name="innerShadowDX" format="integer"/>
+    </declare-styleable>
+</resources>
